@@ -2,7 +2,7 @@
 
 **Screenshots**
 
-![1](https://user-images.githubusercontent.com/96254090/189539233-e47e2230-651a-46b9-b1bc-70d4f6ca65f0.png)
+![1](https://user-images.githubusercontent.com/96254090/189539233-e47e2230-651a-46b9-b1bc-70d4f6ca65f0.png = 250x250)
 
 ![2](https://user-images.githubusercontent.com/96254090/189539239-41bb5be7-1f53-435c-8031-2dc067850c65.png)
 
